@@ -39,7 +39,7 @@ The displayed text format of a DateTime is determined by your Regional and Langu
 ## Syntax
 The syntax for defining DateTime format follows the [ISO standard](https://en.wikipedia.org/wiki/ISO_8601). 
 - The syntax for defining Date format is `yyyymmddD`, where `D` is a mandatory letter. For example, `20180325D`, read as the 26th of March, 2018.
-- The syntax for defining Time format is `hhmmssT`, where `T` is the time designator. For example, `093125H`, read as 9:13:25.
+- The syntax for defining Time format is `hhmmssT`, where `T` is the time designator. For example, `093125H`, read as 9:31:25.
 
 
 ## SQL Server  
